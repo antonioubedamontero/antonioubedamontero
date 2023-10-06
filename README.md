@@ -1,4 +1,14 @@
-### Hi there 👋
+## Sobre mi
+
+Soy un Desarrollador con cerca de 20 años de experiencia en el mundo de la informática, lo cual me ha permitido enfrentarme a muchos desafíos y resolverlos.
+
+Comencé mi andadura con Visual Basic y C pero, por necesidades del mercado, acabé trabajando en Cobol. Desde hace varios años he corregido esta situación y estoy realizando desarrollos Web con Angular (mientras sigo aprendiendo nuevas tecnologías).
+
+Firme defensor del "Piensa dos veces, codifica una", porque el realizar un buen análisis desde el principio, aplicar Clean Code y Patrones de Diseño te facilita mucho la vida.
+
+Por supuesto, también de las pruebas automáticas. Porque un buen análisis te evita errores conceptuales, pero no evita que puedas romper tu código con una modificación.
+
+Si has llegado hasta aquí, ¡Bienvenido! Pasa y siéntete libre de echar un vistazo :wink:  
 
 <!--
 **antonioubedamontero/antonioubedamontero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
