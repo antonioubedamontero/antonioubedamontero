@@ -10,7 +10,7 @@ Por supuesto, también de las pruebas automáticas. Porque un buen análisis te 
 
 Si has llegado hasta aquí, ¡Bienvenido! Pasa y siéntete libre de echar un vistazo :wink:  
 
-## Resumen de experiencia Web
+## Conocimientos
 
 - **HTML5**, **CSS3** y **SASS (BEM)**, **Javascript**, **JQuery** y **Typescript**.
 - Control de versiones con **GIT** con **feature/branch** y **Versionado Semántico**.
@@ -23,6 +23,16 @@ Si has llegado hasta aquí, ¡Bienvenido! Pasa y siéntete libre de echar un vis
 - Bases de Datos: **Oracle**, **My-SQL / Maria-DB** y **MongoDB** (Windows y Linux).
 - Conocimientos de **SEO** y **HTML Semántico**.
 - Metodologías **SCRUM** y **LEAN**.
+
+## Soft skills
+
+- Pensamiento crítico.
+- Comunicación y trabajo en equipo.
+- Aprendizaje constante.
+- Independencia.
+- Creatividad.
+
+
 
 <!--
 **antonioubedamontero/antonioubedamontero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
