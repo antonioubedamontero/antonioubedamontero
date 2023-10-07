@@ -10,6 +10,20 @@ Por supuesto, también de las pruebas automáticas. Porque un buen análisis te 
 
 Si has llegado hasta aquí, ¡Bienvenido! Pasa y siéntete libre de echar un vistazo :wink:  
 
+## Resumen de experiencia Web
+
+- **HTML5**, **CSS3** y **SASS (BEM)**, **Javascript**, **JQuery** y **Typescript**.
+- Control de versiones con **GIT** con **feature/branch** y **Versionado Semántico**.
+- **Angular** y **NodeJs** con el editor **Visual Studio Code**.
+- Pruebas con **Jasmine** y **Karma**. Mocks con **Json-Server** y **Nodered**.
+- Programación Reactiva con **RxJS**.
+- **Angular Material**, **Angular Flex Layout**, **Bootstrap**, **Flexbox** y **CSS Grid**.
+- Uso de **Patrones de Diseño** y **Clean Code**.
+- Contenerización y despliegue con **Docker** y **Jenkis**.
+- Bases de Datos: **Oracle**, **My-SQL / Maria-DB** y **MongoDB** (Windows y Linux).
+- Conocimientos de **SEO** y **HTML Semántico**.
+- Metodologías **SCRUM** y **LEAN**.
+
 <!--
 **antonioubedamontero/antonioubedamontero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
