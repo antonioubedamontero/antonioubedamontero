@@ -35,10 +35,12 @@ Si has llegado hasta aquí, ¡Bienvenido! Pasa y siéntete libre de echar un vis
 ## Proyectos
 
 - **Google Maps**:
-  Proyecto en Angular para gestionar algunas de las situaciones más habituales con Google Maps. [repo de código](https://github.com/antonioubedamontero/google-maps).
+  Proyecto en Angular para gestionar algunas de las situaciones más habituales con Google Maps.
+  [repo de código](https://github.com/antonioubedamontero/google-maps).
   
 - **Calculadora**:
-  Proyecto con algunos años de antigüedad. Es una calculadora con Vanilla Javascript, JQuery y Bootstrap. [repo de código](https://github.com/antonioubedamontero/calculadora).
+  Proyecto con algunos años de antigüedad. Es una calculadora con Vanilla Javascript, JQuery y Bootstrap.
+  [repo de código](https://github.com/antonioubedamontero/calculadora).
   
 <!--
 **antonioubedamontero/antonioubedamontero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
