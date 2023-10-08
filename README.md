@@ -54,11 +54,11 @@ Si has llegado hasta aquí, ¡Bienvenido! Pasa y siéntete libre de echar un vis
     ante el cliente de los proyectos.\
     El framework utilizado es Angular en su versión 9. Las pruebas se realizan con Jasmine y Karma mediante mocks, así como con node-red como servidor de mocks adicional.
 
-    - **WordPress/PHP** - **CEO Escapadas por Madrid**\
+  - **WordPress/PHP** - **CEO Escapadas por Madrid**\
     Creación, acuerdos con las instituciones, redacción, fotografía y seguridad del sitio web [www.escapadaspormadrid.com](https://www.escapadaspormadrid.com/), enfocado a la difusión de la historia y patrimonio
     cultura de Madrid, optimizando contenido mediante arquitectura SEO de tipo SILO.
    
-3. Desarollo en entornos bancarios con COBOL / CICS / DB2 (no aplico ya a este tipo de ofertas laborales).
+2. Desarollo en entornos bancarios con COBOL / CICS / DB2 (no aplico ya a este tipo de ofertas laborales).
    Participación en proyectos de **Fondos de Inversión**, **Riesgos**, **Reguladores Bancarios** y **migración del Banco Popular al Santander**.
 
 ## Proyectos Personales
