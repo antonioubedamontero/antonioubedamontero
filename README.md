@@ -1,4 +1,4 @@
-## Sobre mi
+## :smiley: Sobre mi
 
 Soy un Desarrollador con cerca de 20 años de experiencia en el mundo de la informática, lo cual me ha permitido enfrentarme a muchos desafíos y resolverlos.
 
@@ -10,7 +10,7 @@ Por supuesto, también de las pruebas automáticas. Porque un buen análisis te 
 
 Si has llegado hasta aquí, ¡Bienvenido! Pasa y siéntete libre de echar un vistazo :wink:  
 
-## Conocimientos
+## :mortar_board: Conocimientos
 
 - **HTML5**, **CSS3** y **SASS (BEM)**, **Javascript**, **JQuery** y **Typescript**.
 - Control de versiones con **GIT** con **feature/branch** y **Versionado Semántico**.
@@ -24,7 +24,7 @@ Si has llegado hasta aquí, ¡Bienvenido! Pasa y siéntete libre de echar un vis
 - Conocimientos de **SEO** y **HTML Semántico**.
 - Metodologías **SCRUM** y **LEAN**.
 
-## Soft skills
+## :two_men_holding_hands: Soft skills
 
 - Pensamiento crítico.
 - Comunicación y trabajo en equipo.
@@ -32,9 +32,9 @@ Si has llegado hasta aquí, ¡Bienvenido! Pasa y siéntete libre de echar un vis
 - Independencia.
 - Creatividad.
 
-## Proyectos Laborales
+## :triangular_ruler: Proyectos Laborales
 
-1. \_Desarrollo Web Front. Proyectos y clientes finales\_:
+1. Desarrollo Web Front. Proyectos y clientes finales:
 
   - **Angular**: **Banco Santander** - **Inmuebles** (En la fase inicial del proyecto)\
     Creación de la nueva aplicación de Inmuebles con Angular en su versión 13 y una arquitectura de microfrontends.\
@@ -58,10 +58,10 @@ Si has llegado hasta aquí, ¡Bienvenido! Pasa y siéntete libre de echar un vis
     Creación, acuerdos con las instituciones, redacción, fotografía y seguridad del sitio web [www.escapadaspormadrid.com](https://www.escapadaspormadrid.com/), enfocado a la difusión de la historia y patrimonio
     cultura de Madrid, optimizando contenido mediante arquitectura SEO de tipo SILO.
    
-2. \_Desarrollo en entornos bancarios con COBOL / CICS / DB2 (no aplico ya a este tipo de ofertas laborales)\_:\
+2. Desarrollo en entornos bancarios con COBOL / CICS / DB2 (no aplico ya a este tipo de ofertas laborales):\
    Participación en proyectos de **Fondos de Inversión**, **Riesgos**, **Reguladores Bancarios** y **migración del Banco Popular al Santander**.
 
-## Proyectos Personales
+## :cd: Proyectos Personales
 
 - **Google Maps**:\
   Proyecto en Angular para gestionar algunas de las situaciones más habituales con Google Maps.
