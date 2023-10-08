@@ -34,7 +34,7 @@ Si has llegado hasta aquí, ¡Bienvenido! Pasa y siéntete libre de echar un vis
 
 ## Proyectos Laborales
 
-1. Desarrollo Web Front. Proyectos y clientes finales:
+1. \_Desarrollo Web Front. Proyectos y clientes finales\_:
 
   - **Angular**: **Banco Santander** - **Inmuebles** (En la fase inicial del proyecto)\
     Creación de la nueva aplicación de Inmuebles con Angular en su versión 13 y una arquitectura de microfrontends.\
@@ -58,7 +58,7 @@ Si has llegado hasta aquí, ¡Bienvenido! Pasa y siéntete libre de echar un vis
     Creación, acuerdos con las instituciones, redacción, fotografía y seguridad del sitio web [www.escapadaspormadrid.com](https://www.escapadaspormadrid.com/), enfocado a la difusión de la historia y patrimonio
     cultura de Madrid, optimizando contenido mediante arquitectura SEO de tipo SILO.
    
-2. Desarollo en entornos bancarios con COBOL / CICS / DB2 (no aplico ya a este tipo de ofertas laborales).
+2. \_Desarrollo en entornos bancarios con COBOL / CICS / DB2 (no aplico ya a este tipo de ofertas laborales)\_:\
    Participación en proyectos de **Fondos de Inversión**, **Riesgos**, **Reguladores Bancarios** y **migración del Banco Popular al Santander**.
 
 ## Proyectos Personales
