@@ -78,6 +78,10 @@ Si has llegado hasta aquí, ¡Bienvenido! Pasa y siéntete libre de echar un vis
 - **AJAX-JS**:\
   Proyecto en Javascript para realizar una petición sencilla utilizando AJAX.
   [repo de código](https://github.com/antonioubedamontero/AJAX-JS).
+
+- **Llamada a SOAP desde Angular**:\
+  Proyecto para mostrare una petición SOAP desde Angular.  
+  [repo de código](https://github.com/antonioubedamontero/soap-angular-example).
     
 <!--
 **antonioubedamontero/antonioubedamontero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
