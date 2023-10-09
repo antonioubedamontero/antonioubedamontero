@@ -70,6 +70,10 @@ Si has llegado hasta aquí, ¡Bienvenido! Pasa y siéntete libre de echar un vis
 - **Calculadora**:\
   Proyecto con algunos años de antigüedad. Es una calculadora con Vanilla Javascript, JQuery y Bootstrap.
   [repo de código](https://github.com/antonioubedamontero/calculadora).
+
+- **Hunt the Wumpus**:\
+  Prueba técnica para entrevista de trabajo. No se requería interfaz gráfica, pero hice una sencilla para facilitar el desarrollo. 
+  [repo de código](https://github.com/antonioubedamontero/wumpus). 
   
 <!--
 **antonioubedamontero/antonioubedamontero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
