@@ -64,27 +64,27 @@ Si has llegado hasta aquí, ¡Bienvenido! Pasa y siéntete libre de echar un vis
 ## :cd: Proyectos Personales
 
 - **Google Maps**:\
-  Proyecto en Angular para gestionar algunas de las situaciones más habituales con Google Maps.
+  Proyecto en Angular para gestionar algunas de las situaciones más habituales con Google Maps.\
   [repo de código](https://github.com/antonioubedamontero/google-maps).
   
 - **Calculadora**:\
-  Proyecto con algunos años de antigüedad. Es una calculadora con Vanilla Javascript, JQuery y Bootstrap.
+  Proyecto con algunos años de antigüedad. Es una calculadora con Vanilla Javascript, JQuery y Bootstrap.\
   [repo de código](https://github.com/antonioubedamontero/calculadora).
 
 - **Heroes**:\
-  Prueba técnica en la que se pedía gestionar la parte front de un mantenimiento (CRUD) de héroes. No se pedía realizar el backend.
+  Prueba técnica en la que se pedía gestionar la parte front de un mantenimiento (CRUD) de héroes. No se pedía realizar el backend.\
   [repo de código](https://github.com/antonioubedamontero/heroes).
 
 - **Hunt the Wumpus**:\
-  Prueba técnica para entrevista de trabajo. No se requería interfaz gráfica, pero hice una sencilla para facilitar el desarrollo. 
+  Prueba técnica para entrevista de trabajo. No se requería interfaz gráfica, pero hice una sencilla para facilitar el desarrollo.\
   [repo de código](https://github.com/antonioubedamontero/wumpus).
 
 - **AJAX-JS**:\
-  Proyecto en Javascript para realizar una petición sencilla utilizando AJAX.
+  Proyecto en Javascript para realizar una petición sencilla utilizando AJAX.\
   [repo de código](https://github.com/antonioubedamontero/AJAX-JS).
 
 - **Llamada a SOAP desde Angular**:\
-  Proyecto para mostrare una petición SOAP desde Angular.  
+  Proyecto para mostrare una petición SOAP desde Angular.\
   [repo de código](https://github.com/antonioubedamontero/soap-angular-example).
     
 <!--
