@@ -71,6 +71,10 @@ Si has llegado hasta aquí, ¡Bienvenido! Pasa y siéntete libre de echar un vis
   Proyecto con algunos años de antigüedad. Es una calculadora con Vanilla Javascript, JQuery y Bootstrap.
   [repo de código](https://github.com/antonioubedamontero/calculadora).
 
+- **Heroes**:\
+  Prueba técnica en la que se pedía gestionar la parte front de un mantenimiento (CRUD) de héroes. No se pedía realizar el backend.
+  [repo de código](https://github.com/antonioubedamontero/heroes).
+
 - **Hunt the Wumpus**:\
   Prueba técnica para entrevista de trabajo. No se requería interfaz gráfica, pero hice una sencilla para facilitar el desarrollo. 
   [repo de código](https://github.com/antonioubedamontero/wumpus).
