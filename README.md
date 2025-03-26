@@ -36,6 +36,10 @@ Si has llegado hasta aquí, ¡Bienvenido! Pasa y siéntete libre de echar un vis
 
 1. Desarrollo Web Front. Proyectos y clientes finales:
 
+  - **Angular**:\
+    Proyecto para la administración pública realizando una serie de migraciones de aplicaciones existentes a la versión 14 de Angular, así como
+mejoras en los procesos e inclusión de nuevas funcionalidades.
+
   - **Angular**: **Banco Santander** - **Inmuebles** (En la fase inicial del proyecto)\
     Creación de la nueva aplicación de Inmuebles con Angular en su versión 13 y una arquitectura de microfrontends.\
     Pruebas realizadas con Jasmine y Karma, utilizando JSON Server.
@@ -63,6 +67,14 @@ Si has llegado hasta aquí, ¡Bienvenido! Pasa y siéntete libre de echar un vis
 
 ## :cd: Proyectos Personales
 
+- **Curriculum:**:\
+  Curriculum Vitae personal creado con Angular 19.\
+  [repo de código](https://github.com/antonioubedamontero/new-curriculum).
+
+- **Amigo invisible:**:\
+  Sorteo del amigo invisible creado con Angular 16.\
+  [repo de código](https://github.com/antonioubedamontero/amigo-invisible).
+    
 - **Google Maps**:\
   Proyecto en Angular para gestionar algunas de las situaciones más habituales con Google Maps.\
   [repo de código](https://github.com/antonioubedamontero/google-maps).
