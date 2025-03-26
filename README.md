@@ -70,6 +70,7 @@ mejoras en los procesos e inclusión de nuevas funcionalidades.
 - **Curriculum**:\
   Curriculum Vitae personal creado con Angular 19.\
   [repo de código](https://github.com/antonioubedamontero/new-curriculum).
+  [aplicación en vivo](https://antonioubedamontero.github.io/new-curriculum/).
 
 - **Amigo invisible**:\
   Sorteo del amigo invisible creado con Angular 16.\
