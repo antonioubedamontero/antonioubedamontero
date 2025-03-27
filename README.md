@@ -93,7 +93,7 @@ mejoras en los procesos e inclusión de nuevas funcionalidades.
 
 - **AJAX-JS**:\
   Proyecto en Javascript para realizar una petición sencilla utilizando AJAX.\
-  [repo de código](https://github.com/antonioubedamontero/AJAX-JS)
+  [repo de código](https://github.com/antonioubedamontero/AJAX-JS)&nbsp;&nbsp;[prueba la app](https://antonioubedamontero.github.io/AJAX-JS/)
 
 - **Llamada a SOAP desde Angular**:\
   Proyecto para mostrare una petición SOAP desde Angular.\
