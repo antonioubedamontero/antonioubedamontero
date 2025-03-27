@@ -85,7 +85,7 @@ mejoras en los procesos e inclusión de nuevas funcionalidades.
 
 - **Heroes**:\
   Prueba técnica en la que se pedía gestionar la parte front de un mantenimiento (CRUD) de héroes. No se pedía realizar el backend.\
-  [repo de código](https://github.com/antonioubedamontero/heroes)
+  [repo de código](https://github.com/antonioubedamontero/heroes)&nbsp;&nbsp;[prueba la app](https://antonioubedamontero.github.io/heroes/heroes)
 
 - **Hunt the Wumpus**:\
   Prueba técnica para entrevista de trabajo. No se requería interfaz gráfica, pero hice una sencilla para facilitar el desarrollo.\
