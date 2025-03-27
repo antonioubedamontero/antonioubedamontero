@@ -73,8 +73,7 @@ mejoras en los procesos e inclusión de nuevas funcionalidades.
 
 - **Amigo invisible**:\
   Sorteo del amigo invisible creado con Angular 16.\
-  [repo de código](https://github.com/antonioubedamontero/amigo-invisible)
-  [prueba la app](https://antonioubedamontero.github.io/amigo-invisible/)
+  [repo de código](https://github.com/antonioubedamontero/amigo-invisible)  [prueba la app](https://antonioubedamontero.github.io/amigo-invisible/)
     
 - **Google Maps**:\
   Proyecto en Angular para gestionar algunas de las situaciones más habituales con Google Maps.\
@@ -90,7 +89,7 @@ mejoras en los procesos e inclusión de nuevas funcionalidades.
 
 - **Hunt the Wumpus**:\
   Prueba técnica para entrevista de trabajo. No se requería interfaz gráfica, pero hice una sencilla para facilitar el desarrollo.\
-  [repo de código](https://github.com/antonioubedamontero/wumpus)
+  [repo de código](https://github.com/antonioubedamontero/wumpus)  [prueba la app](https://antonioubedamontero.github.io/wumpus/)
 
 - **AJAX-JS**:\
   Proyecto en Javascript para realizar una petición sencilla utilizando AJAX.\
