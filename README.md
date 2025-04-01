@@ -36,7 +36,7 @@ Si has llegado hasta aquí, ¡Bienvenido! Pasa y siéntete libre de echar un vis
 
 1. Desarrollo Web Front. Proyectos y clientes finales:
 
-  - **Angular**:\
+  - **Angular**: **Alvea Soluciones Tecnológicas**\
     Proyecto para la administración pública realizando una serie de migraciones de aplicaciones existentes a la versión 14 de Angular, así como
 mejoras en los procesos e inclusión de nuevas funcionalidades.
 
