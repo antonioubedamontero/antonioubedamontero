@@ -1,20 +1,17 @@
 ## :smiley: Sobre mi
 
-Soy un Desarrollador con cerca de 20 años de experiencia en el mundo de la informática, lo cual me ha permitido enfrentarme a muchos desafíos y resolverlos.
+Soy Antonio Úbeda Montero, desarrollador web frontend autodidacta con más de 20 años de experiencia, especializado en Angular, TypeScript, HTML5, CSS3 y Node.js.
 
-Comencé mi andadura con Visual Basic y C pero, por necesidades del mercado, acabé trabajando en Cobol. Desde hace varios años he corregido esta situación y estoy realizando desarrollos Web con Angular (mientras sigo aprendiendo nuevas tecnologías).
+A lo largo de mi carrera he trabajado en proyectos para grandes empresas como Banco Santander y SegurCaixa, aplicando metodologías ágiles como Scrum y Lean, y buenas prácticas de desarrollo como Clean Code y patrones de diseño.
 
-Firme defensor del "Piensa dos veces, codifica una", porque el realizar un buen análisis desde el principio, aplicar Clean Code y Patrones de Diseño te facilita mucho la vida.
-
-Por supuesto, también de las pruebas automáticas. Porque un buen análisis te evita errores conceptuales, pero no evita que puedas romper tu código con una modificación.
-
-Si has llegado hasta aquí, ¡Bienvenido! Pasa y siéntete libre de echar un vistazo :wink:  
+Me enfoco en construir interfaces accesibles, optimizadas para buscadores y con un alto rendimiento, utilizando HTML semántico y diseño responsive.
 
 ## :mortar_board: Conocimientos
 
 - **HTML5**, **CSS3** y **SASS (BEM)**, **Javascript**, **JQuery** y **Typescript**.
 - Control de versiones con **GIT** con **feature/branch** y **Versionado Semántico**.
 - **Angular** y **NodeJs** con el editor **Visual Studio Code**.
+- Programación reactiva en Angular con **señales**, **propiedades computadas** y **efectos**.
 - Pruebas con **Jasmine** y **Karma**. Mocks con **Json-Server** y **Nodered**.
 - Programación Reactiva con **RxJS**.
 - **Angular Material**, **Angular Flex Layout**, **Bootstrap**, **Flexbox** y **CSS Grid**.
@@ -68,8 +65,8 @@ mejoras en los procesos e inclusión de nuevas funcionalidades.
 ## :cd: Proyectos Personales
 
 - **Curriculum**:\
-  Curriculum Vitae personal creado con Angular 19.\
-  [repo de código](https://github.com/antonioubedamontero/new-curriculum)&nbsp;&nbsp;[prueba la app](https://www.antonioubedamontero.com/)
+  Curriculum Vitae personal creado con Angular 19 con señales, propiedades computadas y efectos.\
+  [repo de código](https://github.com/antonioubedamontero/curriculum)&nbsp;&nbsp;[prueba la app](https://www.antonioubedamontero.com/)
 
 - **Amigo invisible**:\
   Sorteo del amigo invisible creado con Angular 16.\
