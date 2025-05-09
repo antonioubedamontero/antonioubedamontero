@@ -6,6 +6,10 @@ A lo largo de mi carrera he trabajado en proyectos para grandes empresas como Ba
 
 Me enfoco en construir interfaces accesibles, optimizadas para buscadores y con un alto rendimiento, utilizando HTML semántico y diseño responsive.
 
+## :earth_africa: Web personal
+
+www.antonioubedamontero.com
+
 ## :mortar_board: Conocimientos
 
 - **HTML5**, **CSS3** y **SASS (BEM)**, **Javascript**, **JQuery** y **Typescript**.
