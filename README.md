@@ -8,7 +8,7 @@ Me enfoco en construir interfaces accesibles, optimizadas para buscadores y con 
 
 ## :earth_africa: Web personal
 
-www.antonioubedamontero.com
+https://www.antonioubedamontero.com
 
 ## :mortar_board: Conocimientos
 
@@ -67,6 +67,10 @@ mejoras en los procesos e inclusión de nuevas funcionalidades.
    Participación en proyectos de **Fondos de Inversión**, **Riesgos**, **Reguladores Bancarios** y **migración del Banco Popular al Santander**.
 
 ## :cd: Proyectos Personales
+
+- **Backend Task Admin**:\
+  Backend Task Admin para ser consumido por la aplicación task admin desarrollada en Angular
+  [repo de código)(https://github.com/antonioubedamontero/task-admin-backend)
 
 - **Curriculum**:\
   Curriculum Vitae personal creado con Angular 19 con señales, propiedades computadas y efectos.\
