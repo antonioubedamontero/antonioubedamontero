@@ -70,7 +70,7 @@ mejoras en los procesos e inclusión de nuevas funcionalidades.
 
 - **Backend Task Admin**:\
   Backend Task Admin para ser consumido por la aplicación task admin desarrollada en Angular.\
-  [repo de código)(https://github.com/antonioubedamontero/task-admin-backend)
+  [repo de código](https://github.com/antonioubedamontero/task-admin-backend)
 
 - **Curriculum**:\
   Curriculum Vitae personal creado con Angular 19 con señales, propiedades computadas y efectos.\
