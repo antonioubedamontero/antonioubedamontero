@@ -69,7 +69,7 @@ mejoras en los procesos e inclusión de nuevas funcionalidades.
 ## :cd: Proyectos Personales
 
 - **Backend Task Admin**:\
-  Backend Task Admin para ser consumido por la aplicación task admin desarrollada en Angular
+  Backend Task Admin para ser consumido por la aplicación task admin desarrollada en Angular.\
   [repo de código)(https://github.com/antonioubedamontero/task-admin-backend)
 
 - **Curriculum**:\
