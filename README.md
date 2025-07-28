@@ -69,45 +69,57 @@ mejoras en los procesos e inclusión de nuevas funcionalidades.
 ## :cd: Proyectos Personales
 
 - **Frontend Task Admin**:\
-  Frontend Task Admin desarrollado en Node con Express. Conecta con el Backend Task Admin.\
-  Se adjunta scripts en README.md para crear la aplicación dentro de contenedores docker y sincronizarlos con docker-compose.\
+  Frontend desarrollado con Angular 20 y **Tailwind** como apoyo para la UI. Conecta con el Backend Task Admin.
+  
+  Se adjunta scripts en README.md para crear la aplicación dentro de contenedor docker.
+  
   [repo de código](https://github.com/antonioubedamontero/task-admin-frontend)
 
 - **Backend Task Admin**:\
-  Backend Task Admin para ser consumido por la aplicación task admin desarrollada en Angular.\
-  Se adjunta scripts en README.md para crear la aplicación dentro de contenedores docker.\
+  Backend desarrollado con NodeJs y Express. Lo consume la aplicación Frontend Task Admin.  
+
+  Se adjunta scripts en README.md para crear la aplicación dentro de contenedores docker y sincronizarlos con docker-compose.
+
   [repo de código](https://github.com/antonioubedamontero/task-admin-backend)
 
 - **Curriculum**:\
-  Curriculum Vitae personal creado con Angular 19 con señales, propiedades computadas y efectos.\
+  Curriculum Vitae personal creado con Angular 19 con señales, propiedades computadas y efectos.
+  
   [repo de código](https://github.com/antonioubedamontero/curriculum)&nbsp;&nbsp;[prueba la app](https://www.antonioubedamontero.com/)
 
 - **Amigo invisible**:\
-  Sorteo del amigo invisible creado con Angular 16.\
+  Sorteo del amigo invisible creado con Angular 16.
+  
   [repo de código](https://github.com/antonioubedamontero/amigo-invisible)&nbsp;&nbsp;[prueba la app](https://antonioubedamontero.github.io/amigo-invisible/)
     
 - **Google Maps**:\
-  Proyecto en Angular para gestionar algunas de las situaciones más habituales con Google Maps.\
+  Proyecto en Angular para gestionar algunas de las situaciones más habituales con Google Maps.
+  
   [repo de código](https://github.com/antonioubedamontero/google-maps)
   
 - **Calculadora**:\
-  Proyecto con algunos años de antigüedad. Es una calculadora con Vanilla Javascript, JQuery y Bootstrap.\
+  Proyecto con algunos años de antigüedad. Es una calculadora con Vanilla Javascript, JQuery y Bootstrap.
+  
   [repo de código](https://github.com/antonioubedamontero/calculadora)&nbsp;&nbsp;[prueba la app](https://antonioubedamontero.github.io/calculadora/)
 
 - **Heroes**:\
-  Prueba técnica en la que se pedía gestionar la parte front de un mantenimiento (CRUD) de héroes. No se pedía realizar el backend.\
+  Prueba técnica en la que se pedía gestionar la parte front de un mantenimiento (CRUD) de héroes. No se pedía realizar el backend.
+  
   [repo de código](https://github.com/antonioubedamontero/heroes)&nbsp;&nbsp;[prueba la app](https://antonioubedamontero.github.io/heroes/)
 
 - **Hunt the Wumpus**:\
-  Prueba técnica para entrevista de trabajo. No se requería interfaz gráfica, pero hice una sencilla para facilitar el desarrollo.\
+  Prueba técnica para entrevista de trabajo. No se requería interfaz gráfica, pero hice una sencilla para facilitar el desarrollo.
+  
   [repo de código](https://github.com/antonioubedamontero/wumpus)&nbsp;&nbsp;[prueba la app](https://antonioubedamontero.github.io/wumpus/)
 
 - **AJAX-JS**:\
-  Proyecto en Javascript para realizar una petición sencilla utilizando AJAX.\
+  Proyecto en Javascript para realizar una petición sencilla utilizando AJAX.
+  
   [repo de código](https://github.com/antonioubedamontero/AJAX-JS)&nbsp;&nbsp;[prueba la app](https://antonioubedamontero.github.io/AJAX-JS/)
 
 - **Llamada a SOAP desde Angular**:\
-  Proyecto para mostrare una petición SOAP desde Angular.\
+  Proyecto para mostrare una petición SOAP desde Angular.
+  
   [repo de código](https://github.com/antonioubedamontero/soap-angular-example)
     
 <!--
