@@ -42,21 +42,26 @@ https://www.antonioubedamontero.com
 mejoras en los procesos e inclusión de nuevas funcionalidades.
 
   - **Angular**: **Banco Santander** - **Inmuebles** (En la fase inicial del proyecto)\
-    Creación de la nueva aplicación de Inmuebles con Angular en su versión 13 y una arquitectura de microfrontends.\
+    Creación de la nueva aplicación de Inmuebles con Angular en su versión 13 y una arquitectura de microfrontends.
+    
     Pruebas realizadas con Jasmine y Karma, utilizando JSON Server.
 
   - **Angular**: **Banco Santander** - **Recobros de Empresas**\
-    Creación de la nueva aplicación de Recobros para empresas, en base a una aplicación ya existente, pero con modificaciones en cuanto a su funcionalidad y maquetación.\
-    El framework utilizado es Angular en su versión 13, con una arquitectura de microfrontends. Pruebas realizadas con Jasmine y Karma, utilizando JSON Server.\
+    Creación de la nueva aplicación de Recobros para empresas, en base a una aplicación ya existente, pero con modificaciones en cuanto a su funcionalidad y maquetación.
+    
+    El framework utilizado es Angular en su versión 13, con una arquitectura de microfrontends. Pruebas realizadas con Jasmine y Karma, utilizando JSON Server.
+    
     Uso de Akita como gestor de estados con Angular (fue uno de los requisitos).
 
   - **Angular**: **Banco Santander** - **Proyecto Gravity**\
-    Prueba de concepto. Construcción de nueva aplicación para consultar la posición global de clientes de empresa para los clientes de UK.\
+    Prueba de concepto. Construcción de nueva aplicación para consultar la posición global de clientes de empresa para los clientes de UK.
+    
     El framework utilizado es Angular, en su versión 14. Pruebas realizadas con Jasmine y Karma, con utilización de JSON Server como servidor de Mocks para los servicios.
 
   - **Angular**: **Segur Caixa** -  **Canal Asegurador**\
     Construcción del nuevo canal asegurador de Segur Caixa (varias aplicaciones), soporte al análisis para el equipo funcional, creación de pruebas automáticas y revisión de incidencias, así como presentación
-    ante el cliente de los proyectos.\
+    ante el cliente de los proyectos.
+    
     El framework utilizado es Angular en su versión 9. Las pruebas se realizan con Jasmine y Karma mediante mocks, así como con node-red como servidor de mocks adicional.
 
   - **WordPress/PHP** - **CEO Escapadas por Madrid**\
