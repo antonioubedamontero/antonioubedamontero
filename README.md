@@ -70,10 +70,12 @@ mejoras en los procesos e inclusión de nuevas funcionalidades.
 
 - **Frontend Task Admin**:\
   Frontend Task Admin desarrollado en Node con Express. Conecta con el Backend Task Admin.\
+  Se adjunta scripts en README.md para crear la aplicación dentro de contenedores docker y sincronizarlos con docker-compose.\
   [repo de código](https://github.com/antonioubedamontero/task-admin-frontend)
 
 - **Backend Task Admin**:\
   Backend Task Admin para ser consumido por la aplicación task admin desarrollada en Angular.\
+  Se adjunta scripts en README.md para crear la aplicación dentro de contenedores docker.\
   [repo de código](https://github.com/antonioubedamontero/task-admin-backend)
 
 - **Curriculum**:\
