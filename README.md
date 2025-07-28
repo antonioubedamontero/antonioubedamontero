@@ -74,7 +74,7 @@ mejoras en los procesos e inclusión de nuevas funcionalidades.
     Creación, acuerdos con las instituciones, redacción, fotografía y seguridad del sitio web [www.escapadaspormadrid.com](https://www.escapadaspormadrid.com/), enfocado a la difusión de la historia y patrimonio
     cultura de Madrid, optimizando contenido mediante arquitectura SEO de tipo SILO.
    
-2. **Desarrollo en entornos bancarios con COBOL / CICS / DB2** (no aplico ya a este tipo de ofertas laborales):
+2. Desarrollo en entornos bancarios con COBOL / CICS / DB2 (**no aplico ya a este tipo de ofertas laborales**):
    
    Participación en proyectos de **Fondos de Inversión**, **Riesgos**, **Reguladores Bancarios** y **migración del Banco Popular al Santander**.
 
