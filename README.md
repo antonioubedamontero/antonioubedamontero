@@ -80,6 +80,12 @@ mejoras en los procesos e inclusión de nuevas funcionalidades.
 
 ## :cd: Proyectos Personales
 
+- **JQuery watch**:
+
+  Relojes del mundo desarrollado con **JQuery**, **Vanilla Javascript** y **Bootstrap**.
+
+  [repo de código](https://github.com/antonioubedamontero/jquery-watch)&nbsp;&nbsp;[prueba la app](https://antonioubedamontero.github.io/jquery-watch/)
+
 - **Frontend Task Admin**:
   
   Frontend desarrollado con Angular 20 y **Tailwind** como apoyo para la UI. Conecta con el Backend Task Admin.
