@@ -10,11 +10,17 @@ Me enfoco en construir interfaces accesibles, optimizadas para buscadores y con 
 
 https://www.antonioubedamontero.com
 
+## 🔭 Ahora estoy con:
+
+Aprendiendo React y codificando mis primeras aplicaciones con esta librería de desarrollo, utilizando Vite + React con SWC (Speedy Web Compiler). Realizando mi primer proyecto, más "real" utilizando Tailwindcss con componentes de Shadcn.  
+
 ## :mortar_board: Conocimientos
 
 - **HTML5**, **CSS3** y **SASS (BEM)**, **Javascript**, **JQuery** y **Typescript**.
 - Control de versiones con **GIT** con **feature/branch** y **Versionado Semántico**.
 - **Angular** y **NodeJs** con el editor **Visual Studio Code**.
+- En proceso de aprendizaje y práctica de **React** con Typescript y SWC (Speedy web compiler).
+- Practicando con **tailwindcss** y **shadcn**.
 - Programación reactiva en Angular con **señales**, **propiedades computadas** y **efectos**.
 - Pruebas con **Jasmine** y **Karma**. Mocks con **Json-Server** y **Nodered**.
 - Programación Reactiva con **RxJS**.
@@ -79,6 +85,13 @@ mejoras en los procesos e inclusión de nuevas funcionalidades.
    Participación en proyectos de **Fondos de Inversión**, **Riesgos**, **Reguladores Bancarios** y **migración del Banco Popular al Santander**.
 
 ## :cd: Proyectos Personales
+
+- **React shoppingcart**:
+
+  Carrito de la compra desarrollado con **React** (Typescript + SWC), **shadcn** y manejo de estados con **contextos**.
+
+  [repo de codigo](https://github.com/antonioubedamontero/react-shopping-cart)&nbsp;&nbsp;[prueba la app](https://antonioubedamontero.github.io/react-shopping-cart/)
+  
 
 - **JQuery watch**:
 
