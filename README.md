@@ -87,7 +87,8 @@ mejoras en los procesos e inclusión de nuevas funcionalidades.
 ## :cd: Proyectos Personales
 
 - **React cv-Lidia**:
-  Currículum vítae de Lidia desarrollado con **React** (TypeScript + SVC) + Vite.
+
+  Currículum vítae de Lidia desarrollado con **React** (TypeScript + SVC) + Vite:
 
   - IU creada con **Tailwind CSS**.
   - **React Icons** y **Luxon** para gestionar fechas.
