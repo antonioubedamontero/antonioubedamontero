@@ -86,12 +86,21 @@ mejoras en los procesos e inclusión de nuevas funcionalidades.
 
 ## :cd: Proyectos Personales
 
+- **React cv-Lidia**:
+  Currículum vítae de Lidia desarrollado con **React** (TypeScript + SVC) + Vite.
+
+  - IU creada con **Tailwind CSS**.
+  - **React Icons** y **Luxon** para gestionar fechas.
+  - **useState**, **useEffect**, **Props** y **hooks personalizados**.
+  - Obtenga datos de los endpoints con **AXIOS**.
+
+  [repo de codigo](https://github.com/antonioubedamontero/cv-lidia-react)&nbsp;&nbsp;[prueba la app](https://antonioubedamontero.github.io/cv-lidia-react/)
+  
 - **React shoppingcart**:
 
-  Carrito de la compra desarrollado con **React** (Typescript + SWC), **shadcn** y manejo de estados con **contextos**.
+  Carrito de la compra desarrollado con **React** (Typescript + SWC) + Vite, **shadcn** y manejo de estados con **contextos**.
 
-  [repo de codigo](https://github.com/antonioubedamontero/react-shopping-cart)&nbsp;&nbsp;[prueba la app](https://antonioubedamontero.github.io/react-shopping-cart/)
-  
+  [repo de codigo](https://github.com/antonioubedamontero/react-shopping-cart)&nbsp;&nbsp;[prueba la app](https://antonioubedamontero.github.io/react-shopping-cart/)  
 
 - **JQuery watch**:
 
