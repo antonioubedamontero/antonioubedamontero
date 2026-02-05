@@ -43,6 +43,10 @@ Aprendiendo React y codificando mis primeras aplicaciones con esta librería de 
 
 1. Desarrollo Web Front. Proyectos y clientes finales:
 
+   - **Angular**: **Worldgrid**
+
+     Desarrollo de proyecto en el mercado energético con Angular 19, Tailwind, PrimeNg, programación reactiva con señales y RxJS.
+
   - **Angular**: **Alvea Soluciones Tecnológicas**
     
     Proyecto para la administración pública realizando una serie de migraciones de aplicaciones existentes a la versión 14 de Angular, así como
